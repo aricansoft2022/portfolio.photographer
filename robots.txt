@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://damienbraun.com/sitemap.xml
+Sitemap: https://portfolio-photographer-cyn.pages.dev/sitemap.xml
